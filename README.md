@@ -17,3 +17,12 @@ annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 
 Subistitui findViewbyid
 
+
+CTRL+JANELA+ALT + L
+
+#flaticon.com
+
+packed 
+  -> fragments
+
+
