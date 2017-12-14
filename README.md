@@ -28,3 +28,7 @@ packed
 https://www.materialpalette.com/
 
 Alarmmanager
+
+https://www.uplabs.com/android
+
+Material Design
